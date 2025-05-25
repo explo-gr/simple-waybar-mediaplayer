@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# 🙏 May we never manually manage MPRIS state again.
-
 # preferred > ignored > unspecified
 preferred_players=("harmonoid" "mpv" "vlc" "spotify" "rhythmbox")
 ignored_players=("firefox" "chromium" "chrome" "brave")
