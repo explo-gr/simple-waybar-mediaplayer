@@ -1,14 +1,13 @@
 # Simple Waybar Mediaplayer
 
 A simple mediaplayer module for waybar written with **bash** that primarily relies on **playerctl** \
-*It's recommended to also install `mpv-mpris` for compatibility with mpv-based players*
-
-You can fork it if you feel like it
+You can fork it if you feel like it 👍
 
 ## Requirements
 - Waybar
-- Playerctl
-- Nerdfonts *for displaying icons*
+- `playerctl` to handle media
+- any **Nerdfont** for displaying icons
+- (optinoal) `mpv-mpris` for compatibility with mpv-based players
 
 
 ## Features
@@ -29,9 +28,9 @@ You can fork it if you feel like it
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/song_information.png" width="410"> </br>
 
 ## Installation
-- Append the module in `src/config.jsonc` to your waybar configuration
-- Move the scripts from `src/scripts` into your config and adjust file paths if needed
-- Append the sample styles listed in `src/style.css` to your waybar configuration
+- Append the module in `src/config.jsonc` to your waybar config
+- Move the scripts from `src/scripts` into your config folder and adjust file paths if needed
+- Append the sample styles listed in `src/style.css` to your waybar style config
 - Customize the script as you see fit
 
 ## Caveats
