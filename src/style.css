@@ -1,0 +1,31 @@
+#custom-music {
+    background-color: #747391;
+    
+    transition-property: background-color, opacity, width;
+    transition-duration: .3s;
+}
+
+#custom-music.paused {
+    opacity: 0.5;
+}
+
+#custom-music.spotify {
+    background-color: #8fa679;
+    color: #f3f0ec;
+}
+
+#custom-music.harmonoid {
+    background-color: #866370;
+}
+
+#custom-music.mpv {
+    background-color: #726a9c;
+}
+
+#custom-music.vlc {
+    background-color: #b68758;
+}
+
+#custom-cpu_temp {
+    background-color: #59604B;
+}

@@ -1,0 +1,12 @@
+// make sure to edit the module according to your setup 
+"custom/music": {
+    "return-type": "json",
+    "format": "{text}",
+    "exec": "~/.config/waybar/scripts/music_player.sh",
+    "interval": 8,
+    "on-click": "~/.config/waybar/scripts/music_control.sh play-pause",
+    "on-double-click": "~/.config/waybar/scripts/music_control.sh next",
+    "tooltip": true,
+    "max-length": 30,
+    "signal": 8
+}
