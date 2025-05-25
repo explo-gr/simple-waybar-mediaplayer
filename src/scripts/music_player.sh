@@ -1,7 +1,5 @@
 #!/bin/bash
 
-# 🙏 Thank the gods of prompt engineering that I shall never touch bash scripting
-
 # preferred > ignored > unspecified
 preferred_players=("harmonoid" "mpv" "vlc" "spotify" "rhythmbox")
 ignored_players=("firefox" "chromium" "chrome" "brave")
