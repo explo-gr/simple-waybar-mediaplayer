@@ -11,7 +11,7 @@ You can fork it if you feel like it 👍
 
 
 ## Features
-- Different priorities for different players
+- Hierarchical priorities for different players
 	> Manually edit the priorities in `music_control.sh` and `music_player.sh` \
 	> Priorities go as follows: anything else < ignored < preferred
 	>> preferred_players=("harmonoid"  "mpv"  "vlc"  "spotify"  "rhythmbox") \
@@ -27,6 +27,7 @@ You can fork it if you feel like it 👍
 - A tooltip displaying various metadata \
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/song_information.png" alt="Metadata"  width="410"> </br>
 - Easily expandable with little to no scripting required
+
 
 ## Installation
 - Append the module in `src/config.jsonc` to your waybar config
