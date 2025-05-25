@@ -26,7 +26,7 @@ You can fork it if you feel like it 👍
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/vlc.png" alt="Vlc" width="410"> </br>
 - A tooltip displaying various metadata \
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/song_information.png" alt="Metadata"  width="410"> </br>
-- Easily expandable with little to no sripting required
+- Easily expandable with little to no scripting required
 
 ## Installation
 - Append the module in `src/config.jsonc` to your waybar config
