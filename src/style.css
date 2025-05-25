@@ -1,4 +1,7 @@
-/* sample styles */
+/*
+    sample styles
+    use a Nerdfont and incorporate the module into your setup
+*/
 #custom-music {
     background-color: #747391;
     
@@ -12,7 +15,6 @@
 
 #custom-music.spotify {
     background-color: #8fa679;
-    color: #f3f0ec;
 }
 
 #custom-music.harmonoid {
