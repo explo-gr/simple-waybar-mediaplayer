@@ -1,6 +1,6 @@
 # Simple Waybar Mediaplayer
 
-A simple mediaplayer module for waybar written with **bash** that primarily relies on **playerctl** \
+A simple mediaplayer module for waybar written with **bash** that primarily relies on **playerctl**
 
 ## Requirements
 - Waybar
