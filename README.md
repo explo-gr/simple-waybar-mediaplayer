@@ -20,7 +20,7 @@ A simple mediaplayer module for waybar written with **bash** that primarily reli
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/pause_resume.gif" alt="Pause and Resume" width="300"> </br>
 - Doubleclicking the module skips the song
 - Different icons/backgrounds for each player \
-	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/firefox.png" alt="Firefox" width="290">
+	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/firefox.png" alt="Firefox" width="280">
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/mpv.png" alt="Mpv" width="280">
 	</br> <img src="https://github.com/explo-gr/simple-waybar-mediaplayer/blob/main/showcase/vlc.png" alt="Vlc" width="280"> </br>
 - A tooltip displaying various metadata \
